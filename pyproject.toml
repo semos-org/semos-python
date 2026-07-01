@@ -1,5 +1,5 @@
 [project]
-name = "semos-python"
+name = "semos"
 version = "0.0.1"
 description = "semos python package"
 authors = [{ name = "semos-org", email = "team@semos.dev" }]
