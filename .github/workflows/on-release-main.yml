@@ -51,7 +51,7 @@ jobs:
         run: uv build
 
       - name: Publish package
-        run: uv publish
+        run: uv publish --trusted-publishing always
 
   deploy-docs:
     needs: publish
