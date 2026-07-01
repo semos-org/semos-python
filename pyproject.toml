@@ -1,6 +1,6 @@
 [project]
 name = "semos"
-version = "0.0.1"
+version = "0.0.2"
 description = "semos python package"
 authors = [{ name = "semos-org", email = "team@semos.dev" }]
 readme = "README.md"
